@@ -4,5 +4,7 @@
     { "id": 2, "title": "Feed A Cat", "status":"In Progress" },
     { "id": 3, "title": " Get Another Cat", "status":"To Start" }
   ],
-  "name": "Dantra Bjaen"
+  "Person":{
+    "name": "Dantra Bjaen"
+  }
 }
