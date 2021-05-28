@@ -1,8 +1,8 @@
 {
   "cards": [
-    { "id": 1, "title": "Get A Cat", "status":"Done" },
-    { "id": 2, "title": "Feed A Cat", "status":"In Progress" },
-    { "id": 3, "title": " Get Another Cat", "status":"To Start" }
+    { "id": 1, "value": "Get A Cat", "status":"Done" },
+    { "id": 2, "value": "Feed A Cat", "status":"In Progress" },
+    { "id": 3, "value": " Get Another Cat", "status":"To Start" }
   ],
   "Person":{
     "name": "Dantra Bjaen"
